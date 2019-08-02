@@ -1,0 +1,2 @@
+moneyplatform.Mining
+moneyplatform.SpreadPrize
